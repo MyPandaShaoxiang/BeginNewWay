@@ -1,0 +1,11 @@
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\bin\Debug\GameBox.exe
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\bin\Debug\GameBox.pdb
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Debug\GameBox.Form1.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Debug\GameBox.Properties.Resources.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Debug\GameBox.csproj.GenerateResource.Cache
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Debug\GameBox.exe
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Debug\GameBox.pdb
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Debug\GameBox.JigsawForm.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Debug\GameBox.MessgeForm.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Debug\GameBox.carForm.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Debug\GameBox.game3Form.resources

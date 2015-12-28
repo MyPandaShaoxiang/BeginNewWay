@@ -1,0 +1,12 @@
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\bin\Release\GameBox.exe
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\bin\Release\GameBox.pdb
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.carForm.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.Form1.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.game3Form.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.JigsawForm.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.MessgeForm.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.Properties.Resources.resources
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.csproj.GenerateResource.Cache
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.exe
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.pdb
+E:\我的文件夹\c文件夹\c#\GameBox\GameBox\obj\x86\Release\GameBox.csprojResolveAssemblyReference.cache
